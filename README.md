@@ -1,7 +1,7 @@
 
 # Library Management System 📚
 
-A menu-driven Console Application built using the **C Language** to simulate the core operations of a college library. This project was developed as a Mini-Project for the **First Year Engineering (IT)** curriculum at **K. K. Wagh Institute of Engineering Education & Research**.
+A menu-driven Console Application built using the **C Language** to simulate the core operations of a college library. This project was developed as a Mini-Project for the **First Year Engineering (IT)** curriculum at **MVP'S KBT COLLEGE OF ENGINEERING, NASHIK**.
 
 ## 🚀 Key Features
 * **Stock Management:** Add new books and track live inventory quantity.
